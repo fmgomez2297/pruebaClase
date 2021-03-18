@@ -11,3 +11,9 @@ Esto es un ejemplo de formato Markdown
 * Rambo
 * Avengers
 * Rocky
+
+
+Una lista de series
+* Game of Thrones
+* The Simpsons
+* The Office
