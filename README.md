@@ -24,3 +24,4 @@ Otra de series
 * Agrego
   Prueba
   Pruebo el Pull
+  Prueba combinando cambios en la nube y en el code a la vez
